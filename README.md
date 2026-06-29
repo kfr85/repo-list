@@ -1,11 +1,11 @@
 # My GitHub Repositories
 
-> 最終更新: 2026-06-22　｜　アーカイブ済みリポジトリを除く
+> 最終更新: 2026-06-29　｜　アーカイブ済みリポジトリを除く
 
 | # | リポジトリ | 概要 | 言語 | 更新日 |
 |---|---|---|---|---|
-| 1 | 🔒 [dotclaude](https://github.com/kfr85/dotclaude) | ~/.claude グローバル設定・スキル・ドキュメント（ハーネスエンジニアリング） | Python | 2026-06-16 |
-| 2 | 🌐 [repo-list](https://github.com/kfr85/repo-list) | 自分のGitHubリポジトリ一覧を自動生成するリポジトリ（GitHub Actions で週次更新） | Python | 2026-06-16 |
+| 1 | 🌐 [repo-list](https://github.com/kfr85/repo-list) | 自分のGitHubリポジトリ一覧を自動生成するリポジトリ（GitHub Actions で週次更新） | Python | 2026-06-22 |
+| 2 | 🔒 [dotclaude](https://github.com/kfr85/dotclaude) | ~/.claude グローバル設定・スキル・ドキュメント（ハーネスエンジニアリング） | Python | 2026-06-16 |
 | 3 | 🌐 [x-raindrop-sync](https://github.com/kfr85/x-raindrop-sync) | X(Twitter)のいいねをRaindrop.ioコレクションに自動同期するChrome拡張 | JavaScript | 2026-06-16 |
 | 4 | 🔒 [google-interests-to-raindrop](https://github.com/kfr85/google-interests-to-raindrop) | Chrome extension that syncs Google Interests (liked) to Raindrop.io | JavaScript | 2026-06-16 |
 | 5 | 🔒 [k8s-homelab](https://github.com/kfr85/k8s-homelab) | Kubernetes homelab configuration - apps, infrastructure manifests |  | 2026-04-18 |
