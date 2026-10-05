@@ -1,11 +1,11 @@
 # My GitHub Repositories
 
-> 最終更新: 2026-09-28　｜　アーカイブ済みリポジトリを除く
+> 最終更新: 2026-10-05　｜　アーカイブ済みリポジトリを除く
 
 | # | リポジトリ | 概要 | 言語 | 更新日 |
 |---|---|---|---|---|
-| 1 | 🔒 [obsidian-llm](https://github.com/kfr85/obsidian-llm) |  |  | 2026-09-25 |
-| 2 | 🌐 [repo-list](https://github.com/kfr85/repo-list) | 自分のGitHubリポジトリ一覧を自動生成するリポジトリ（GitHub Actions で週次更新） | Python | 2026-09-21 |
+| 1 | 🌐 [repo-list](https://github.com/kfr85/repo-list) | 自分のGitHubリポジトリ一覧を自動生成するリポジトリ（GitHub Actions で週次更新） | Python | 2026-09-28 |
+| 2 | 🔒 [obsidian-llm](https://github.com/kfr85/obsidian-llm) |  |  | 2026-09-25 |
 | 3 | 🔒 [dotclaude](https://github.com/kfr85/dotclaude) | ~/.claude グローバル設定・スキル・ドキュメント（ハーネスエンジニアリング） | Python | 2026-06-16 |
 | 4 | 🌐 [x-raindrop-sync](https://github.com/kfr85/x-raindrop-sync) | X(Twitter)のいいねをRaindrop.ioコレクションに自動同期するChrome拡張 | JavaScript | 2026-06-16 |
 | 5 | 🔒 [google-interests-to-raindrop](https://github.com/kfr85/google-interests-to-raindrop) | Chrome extension that syncs Google Interests (liked) to Raindrop.io | JavaScript | 2026-06-16 |
